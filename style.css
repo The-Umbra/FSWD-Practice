@@ -5,10 +5,11 @@
 body {
     background-color: #1a1f2c;
     font-family: sans-serif;
+    color: white;
 }
 
-h3 {
-    color: white;
+a {
+    color: #9aff;
 }
 
 .topnav {
@@ -42,9 +43,8 @@ form {
 }
 
 input {
-    all: unset;
     font: 15px system-ui;
-    color: #fff;
+    color: black;
     height: 100%;
     width: 100%;
     padding: 6px 9px;
